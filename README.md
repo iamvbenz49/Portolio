@@ -1,2 +1,2 @@
-# Portolio
-My portfolio
+# Portfolio
+My Internet portfolio
